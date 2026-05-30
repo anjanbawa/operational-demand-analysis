@@ -1,7 +1,7 @@
 # Operational Demand & Resource Planning Analysis
 
 **Tool:** Python (Pandas, NumPy, Matplotlib) | **Domain:** Business Operations & Resource Planning  
-**Context:** The Timeless Pictures — Jamshedpur, India (2025)
+**Context:** The Timeless Pictures - Jamshedpur, India (2025)
 
 ---
 
